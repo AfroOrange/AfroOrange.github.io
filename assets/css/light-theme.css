@@ -1,0 +1,20 @@
+body {
+    align-items: center;
+}
+
+#exampleButton {
+    color: #030303;
+    text-decoration: dotted;
+    border-color: #f8f9fa;
+    background-color: #5fa6ee;
+}
+
+#exampleButton:hover {
+    color: #f8f9fa;
+    background-color: #030303;
+}
+
+#exampleButton:active {
+    color: #f8f9fa;
+    background-color: #030303;
+}
